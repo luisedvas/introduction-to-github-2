@@ -12,3 +12,6 @@
 <h3>Encabezado de tercera categoria</h3>
 <h4>Encabezado de cuarta categoria</h4>
 
+- [x] Practica código en las noches
+- [x] Meditar antes de dormir
+- [x] Tomar agua antes de dormir
