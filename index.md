@@ -15,3 +15,4 @@
 - [x] Practica código en las noches
 - [x] Meditar antes de dormir
 - [x] Tomar agua antes de dormir
+- [ ] No comer
